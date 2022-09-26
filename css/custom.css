@@ -10,6 +10,31 @@ body{
 
 }
 
+.front-page{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 50px;
+}
+
 .white-part{
     background-color: white;
 }
+
+
+.CV-logo {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    background-color: #F200AD;
+    border: 2px solid #000;
+
+    text-align: center;
+
+}
+
+.navbar-nav > li{
+    padding-left:100px;
+    padding-right:10px;
+}
+
